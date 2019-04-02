@@ -1,0 +1,7 @@
+Name	Type	Description	
+MSBPO52	Computer		
+MSS45	Computer		
+MSSPAD242	Computer		
+MSSPAD276	Computer		
+MSSPAD392	Computer		
+VMH-MSS43	Computer		
